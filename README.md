@@ -26,7 +26,7 @@ Then run the command below.
 $ gulp watch
 ```
 
-If you want to try running testing the browser without installing gulp. 
+If you want to try running testing the browser without installing gulp globally. 
 Try running the command below.
 
 ```
