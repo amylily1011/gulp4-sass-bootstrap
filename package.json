@@ -1,0 +1,26 @@
+{
+  "name": "gulp-sass-bootstrap",
+  "version": "1.0.0",
+  "description": "Welcome to the Gulp4 SaSS Bootstrap setup using BrowserSync to Automate your changes",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amylily1011/gulp4-sass-bootstrap.git"
+  },
+  "author": "Amy Lily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amylily1011/gulp4-sass-bootstrap/issues"
+  },
+  "homepage": "https://github.com/amylily1011/gulp4-sass-bootstrap#readme"
+}
